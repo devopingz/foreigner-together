@@ -10,7 +10,7 @@
 ##### - 테이블 설계, DB쿼리 작성
 #### Front-end
 ##### - 로그인, 회원가입, 회원정보
-##### - 추천시스템 기능 구현
+##### - 추천시스템
 </br>
 
 ![image](https://github.com/devopingz/foreigner-together/assets/56243414/7f29b995-4c8e-465e-9c99-dd85bb809b0d)
